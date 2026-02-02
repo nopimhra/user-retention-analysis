@@ -1,5 +1,3 @@
-# user-retention-analysis
-
 # User Retention Analysis
 
 Proyek ini bertujuan untuk menganalisis **retensi pengguna (user retention)** berdasarkan data transaksi menggunakan pendekatan **cohort analysis**.  
